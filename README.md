@@ -2,7 +2,6 @@
 
 This repository contains the code for the research article: [2305.16808](https://arxiv.org/abs/2305.16808)
 
-**Primary Class**: math.GT
 
 If you use this code or data, please cite:
 
@@ -18,8 +17,6 @@ If you use this code or data, please cite:
 ```
 
 When using the dataset, it is also necessary to cite the *KnotInfo* resource:
-
-**Author**: Charles Livingston and Allison H. Moore
 
 **URL**: [KnotInfo](http://knotinfo.math.indiana.edu)
 
